@@ -1,7 +1,7 @@
 // myfirst.cpp -- displays a message
 
 #include <iostream>
-int main(void)
+int main()
 {
     using namespace std;
     cout << "Come up and C++ me some time.";
