@@ -21,7 +21,7 @@ int main() {
         3.12,
         32.99};     // pal is a second variable of type inflatable
 
-    // note: some inplementations require using
+    // NOTE: some implementations require using
     // static inflatable guest
 
     cout << "Expand your guest list with " << guest.name;
